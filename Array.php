@@ -47,4 +47,7 @@ echo "<br>";
 echo count($nama);
 echo "<br>";
 
+sort($kotak);
+print_r( $kotak );
+
 ?>
